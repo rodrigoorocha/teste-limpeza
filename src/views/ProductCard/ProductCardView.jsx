@@ -99,8 +99,6 @@ function ProductCardView() {
       <Grid columns={15} h={135} mb={100}>
 
 
-
-
         <Grid.Col span={3}>
           <Box display={"flex"} h={"100%"} sx={{ border: "2px solid #004C98", borderRadius: "10px", justifyContent: "center", alignItems: "center" }}>
             <Center>
